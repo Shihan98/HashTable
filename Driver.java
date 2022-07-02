@@ -13,6 +13,9 @@ public class Driver {
 		ht1.insert(100);
 		ht1.insert(13);
 		ht1.insert(21);
+		ht1.insert(140);
+		ht1.insert(135);
+		ht1.insert(24);
 		
 		ht1.printTable();
 		
